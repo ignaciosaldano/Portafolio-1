@@ -1,0 +1,33 @@
+/* Acá intenté aplicar cambios esteticos en CSS, pero por una cosa de tiempo no alcancé a que se aplicaran */
+
+*{
+    margin: 5;
+    padding: 5;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+    
+}
+
+#con {
+
+list-style: none;
+    padding: 0;
+    background: cadetblue;
+    width: 90;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+#IGN {
+     
+    background: rgb(113, 95, 160);
+
+}
+
+#PNOMBRE {
+
+    background: rgb(14, 157, 95);
+}
